@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find It!! Location Finder</string>
+    <string name="txtTitle">Find It!! Location Finder</string>
+    <string name="imgBackground">Earth Image</string>
+    <string name="title_activity_maps">Find It!! Location Finder</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hint">Enter Address</string>
+    <string name="btnSearch">Go</string>
+</resources>
